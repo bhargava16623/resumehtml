@@ -66,13 +66,21 @@ resumehtml/
 Here are the key sections to review:
 
 1. **Header Section** - Name and professional title
+![alt text](image.png)
 2. **About Me** - Brief introduction and expertise
+![alt text](image-1.png)
 3. **Skills** - Technical skills in bullet-point format
+![alt text](image-2.png)
 4. **Experience Table** - Work history with position, company, and duration
+![alt text](image-3.png)
 5. **Projects** - Detailed project descriptions with technologies and timelines
+![alt text](image-4.png)
 6. **Education Table** - Academic credentials
+![alt text](image-5.png)
 7. **Contact Information** - Email, phone, and location
+![alt text](image-6.png)
 8. **Footer** - Copyright notice
+![alt text](image-7.png)
 
 ## Technologies Used
 
